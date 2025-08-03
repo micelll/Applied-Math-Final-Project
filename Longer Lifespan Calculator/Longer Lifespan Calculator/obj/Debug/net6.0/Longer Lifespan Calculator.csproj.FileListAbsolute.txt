@@ -1,0 +1,14 @@
+C:\Users\Feylin\source\repos\Longer Lifespan Calculator\Longer Lifespan Calculator\obj\Debug\net6.0\Longer Lifespan Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feylin\source\repos\Longer Lifespan Calculator\Longer Lifespan Calculator\obj\Debug\net6.0\Longer Lifespan Calculator.AssemblyInfoInputs.cache
+C:\Users\Feylin\source\repos\Longer Lifespan Calculator\Longer Lifespan Calculator\obj\Debug\net6.0\Longer Lifespan Calculator.AssemblyInfo.cs
+C:\Users\Feylin\source\repos\Longer Lifespan Calculator\Longer Lifespan Calculator\obj\Debug\net6.0\Longer Lifespan Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Feylin\source\repos\Longer Lifespan Calculator\Longer Lifespan Calculator\bin\Debug\net6.0\Longer Lifespan Calculator.exe
+C:\Users\Feylin\source\repos\Longer Lifespan Calculator\Longer Lifespan Calculator\bin\Debug\net6.0\Longer Lifespan Calculator.deps.json
+C:\Users\Feylin\source\repos\Longer Lifespan Calculator\Longer Lifespan Calculator\bin\Debug\net6.0\Longer Lifespan Calculator.runtimeconfig.json
+C:\Users\Feylin\source\repos\Longer Lifespan Calculator\Longer Lifespan Calculator\bin\Debug\net6.0\Longer Lifespan Calculator.dll
+C:\Users\Feylin\source\repos\Longer Lifespan Calculator\Longer Lifespan Calculator\bin\Debug\net6.0\Longer Lifespan Calculator.pdb
+C:\Users\Feylin\source\repos\Longer Lifespan Calculator\Longer Lifespan Calculator\obj\Debug\net6.0\Longer Lifespan Calculator.dll
+C:\Users\Feylin\source\repos\Longer Lifespan Calculator\Longer Lifespan Calculator\obj\Debug\net6.0\refint\Longer Lifespan Calculator.dll
+C:\Users\Feylin\source\repos\Longer Lifespan Calculator\Longer Lifespan Calculator\obj\Debug\net6.0\Longer Lifespan Calculator.pdb
+C:\Users\Feylin\source\repos\Longer Lifespan Calculator\Longer Lifespan Calculator\obj\Debug\net6.0\Longer Lifespan Calculator.genruntimeconfig.cache
+C:\Users\Feylin\source\repos\Longer Lifespan Calculator\Longer Lifespan Calculator\obj\Debug\net6.0\ref\Longer Lifespan Calculator.dll
